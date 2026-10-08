@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3333/expenses'
+const API_URL = '/expenses'
 
 const form = document.querySelector('#expense-form')
 const descriptionInput = document.querySelector('#description')
